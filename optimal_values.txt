@@ -1,0 +1,90 @@
+FLP-10-3-0.txt :
+minimum_travel_cost : 26
+facility_location : 174
+FLP-10-3-1.txt :
+minimum_travel_cost : 35
+facility_location : 219
+FLP-10-3-2.txt :
+minimum_travel_cost : 32
+facility_location : 150
+FLP-10-3-3.txt :
+minimum_travel_cost : 44
+facility_location : 242
+FLP-10-3-4.txt :
+minimum_travel_cost : 25
+facility_location : 178
+FLP-12-4-0.txt :
+minimum_travel_cost : 51
+facility_location : 266
+FLP-12-4-1.txt :
+minimum_travel_cost : 56
+facility_location : 234
+FLP-12-4-2.txt :
+minimum_travel_cost : 42
+facility_location : 222
+FLP-12-4-3.txt :
+minimum_travel_cost : 36
+facility_location : 169
+FLP-12-4-4.txt :
+minimum_travel_cost : 53
+facility_location : 214
+FLP-14-4-0.txt :
+minimum_travel_cost : 61
+facility_location : 255
+FLP-14-4-1.txt :
+minimum_travel_cost : 52
+facility_location : 288
+FLP-14-4-2.txt :
+minimum_travel_cost : 46
+facility_location : 277
+FLP-14-4-3.txt :
+minimum_travel_cost : 58
+facility_location : 286
+FLP-14-4-4.txt :
+minimum_travel_cost : 69
+facility_location : 239
+FLP-16-5-0.txt :
+minimum_travel_cost : 67
+facility_location : 265
+FLP-16-5-1.txt :
+minimum_travel_cost : 97
+facility_location : 340
+FLP-16-5-2.txt :
+minimum_travel_cost : 80
+facility_location : 317
+FLP-16-5-3.txt :
+minimum_travel_cost : 113
+facility_location : 341
+FLP-16-5-4.txt :
+minimum_travel_cost : 88
+facility_location : 316
+FLP-18-6-0.txt :
+minimum_travel_cost : 94
+facility_location : 335
+FLP-18-6-1.txt :
+minimum_travel_cost : 69
+facility_location : 287
+FLP-18-6-2.txt :
+minimum_travel_cost : 67
+facility_location : 322
+FLP-18-6-3.txt :
+minimum_travel_cost : 71
+facility_location : 337
+FLP-18-6-4.txt :
+minimum_travel_cost : 62
+facility_location : 351
+FLP-20-7-0.txt :
+minimum_travel_cost : 94
+facility_location : 358
+FLP-20-7-1.txt :
+minimum_travel_cost : 95
+facility_location : 410
+FLP-20-7-2.txt :
+minimum_travel_cost : 85
+facility_location : 418
+FLP-20-7-3.txt :
+minimum_travel_cost : 75
+facility_location : 327
+FLP-20-7-4.txt :
+minimum_travel_cost : 100
+facility_location : 375
